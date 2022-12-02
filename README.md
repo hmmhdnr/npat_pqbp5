@@ -11,6 +11,3 @@ It consists of two sheets containing search results of SNPs of PQBP5 and related
 
 ## custom code
 A custom function in Microsoft Excel was used to check wherther SNPs mentioned in research papers are included in a list of SNPs from dbSNP (see "query_and_result" datasheet in the atached Excel file).
-```
-=IF(COUNTIF(SNPs!A:A,A2) > 0, "yes", "no")
-```
