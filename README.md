@@ -2,7 +2,9 @@
 
 ## datasets
 A source data file of this analysis is attached in this repository (named "Confirmation_of_SNP_GWAS_data_and_polyQ_disease_association_dataset.xlsx").
+
 It consists of two sheets containing search results of SNPs of PQBP5 and related research papers as below:
+
 * a list of SNPs in PQBP5/NOL10 acquired from dbSNP ( https://www.ncbi.nlm.nih.gov/snp/ )
 * a list of research papers associated with polyQ disease and SNP/GWAS dataset searched from PubMed ( https://pubmed.ncbi.nlm.nih.gov/ )
 
