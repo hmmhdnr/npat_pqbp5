@@ -7,3 +7,4 @@ custom code for SNP validation of PQBP5 in our research paper entitled "PQBP5/NO
 * a list of research papers relating to SNPs and CAG repeats searched from PubMed
 
 ## custom codes
+A custom function in Microsoft Excel was used to check wherther SNPs mentioned in research papers are included in a list of SNPs from dbSNP.
