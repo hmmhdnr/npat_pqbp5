@@ -1,4 +1,4 @@
-# A custom code for SNP validation of PQBP5 in our research paper entitled "PQBP5/NOL10 maintains and anchors the nucleolus under physiological and osmotic stress conditions".
+# A custom code to confirm SNP/GWAS data and polyQ disease association dataset in our research paper entitled "PQBP5/NOL10 maintains and anchors the nucleolus under physiological and osmotic stress conditions".
 
 ## datasets
 An excel file consists of two sheets containing search results of SNPs of PQBP5 and related research papers as below:
