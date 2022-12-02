@@ -10,4 +10,4 @@ It consists of two sheets containing search results of SNPs of PQBP5 and related
 * a list of research papers associated with polyQ disease and SNP/GWAS dataset searched in PubMed ( https://pubmed.ncbi.nlm.nih.gov/ )
 
 ## custom code
-A custom function in Microsoft Excel was used to check wherther SNPs mentioned in research papers are included in a list of SNPs from dbSNP (see "query_and_result" datasheet in the atached Excel file).
+A custom function in Microsoft Excel was used to check wherther SNPs mentioned in research papers are included in a list of SNPs from dbSNP (see "example_of_query_and_result" datasheet in the atached Excel file).
